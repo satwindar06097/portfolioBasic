@@ -1,0 +1,297 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.head {
+
+    /* border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem; */
+    display: flex;
+    justify-content: flex-start;
+    background: #025464;
+    width: 100%;
+    height: 10rem;
+}
+
+.menu {
+    margin-top: 2.5rem;
+    margin-left: 4rem;
+    size: 5rem;
+
+
+
+}
+
+.material-symbols-outlined {
+    color: white;
+    font-size: 4rem;
+
+
+}
+
+.portfolio {
+    margin-top: 1.2rem;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 6rem;
+    margin-left: 7rem;
+
+}
+
+.abt {
+    margin-top: 3.2rem;
+    margin-left: 95rem;
+}
+
+.home {
+    color: white;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+
+.projrect {
+    color: white;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+
+.pro {
+    margin-top: 3.2rem;
+    margin-left: 9rem;
+
+}
+
+.img1 {
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    width: 60rem;
+    margin-left: 15rem;
+}
+
+.start1 {
+    display: flex;
+    background: rgb(236, 234, 216);
+}
+
+.introduction1 {
+    margin-top: 6rem;
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+.intro1 {
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    margin-left: 40rem;
+    background:khaki;
+    width: 40rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    margin-right: 20rem;
+    border-radius: 4rem;
+}
+
+.intro2 {
+    text-align: center;
+    background: #ECF8F9;
+    padding: 5rem;
+
+}
+
+.head2 {
+    padding-top: 2rem;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+
+}
+
+.myimg {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+
+}
+
+.aboutcontainer {
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    margin-top: 3rem;
+    padding: 2rem;
+    margin-left: 60rem;
+    text-align: justify;
+    border-radius: 2rem;
+    width: 60rem;
+    background-color: khaki;
+
+}
+
+.disc {
+    font-family: 'Times New Roman';
+    font-size: 2.5rem;
+}
+
+.tech {
+    background: rgb(236, 234, 216);
+    ;
+}
+
+.tech {
+    padding: 4rem;
+}
+
+.teachead {
+    margin-left: 68rem;
+    padding-top: 1rem;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+
+.python,
+.DSA,
+.HTML,
+.css,
+.GitHub,
+.js {
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+
+    width: 24rem;
+
+    background: khaki;
+}
+
+.python:hover,
+.DSA:hover,
+.HTML:hover,
+.css:hover,
+.GitHub:hover,
+.js:hover
+.aboutcontainer:hover {
+    box-shadow: 1.7px 1.7px 2.5px 1.7px rgba(0, 0, 0, 0.2);
+}
+
+.pyimg,
+.dimg,
+.himg,
+.Cimg,
+.gimg,
+.jsimg {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    width: 24rem;
+}
+
+.card1,
+.card2 {
+    /* box-shadow: 1rem 1rem 2rem 1rem rgba(0, 0, 0, 0.2); */
+    border-radius: 1.5rem;
+    margin-top: 4rem;
+    margin-right: 25rem;
+    display: flex;
+    gap: 25rem;
+    margin-left: 30rem;
+
+
+}
+
+.pydis,
+.ddis,
+.hdis,
+.cdis,
+.gdis,
+.jsdis {
+    font-size: 2rem;
+    padding: 1.5rem;
+    justify-content: center;
+
+}
+
+.pyhead,
+.chead,
+.dhead,
+.hhead,
+.ghead,
+.jshead {
+    font-size: 2.7rem;
+    text-decoration: underline;
+}
+
+.pro2 {
+    padding: 2rem;
+    background: #ECF8F9;
+}
+
+.proimg {
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    width: 30rem;
+}
+
+.proflex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.prohead {
+    margin-left: 86rem;
+    font-size: 4.5rem;
+    margin-top: 2rem;
+
+}
+
+.prodis {
+    margin-left: 30rem;
+    font-size: 3rem;
+    margin-top: 4rem;
+}
+
+.button {
+    background-color: #025464;
+    color: white;
+    margin-left: 36rem;
+    margin-top: 4rem;
+    padding: 1.2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3rem;
+    border-radius: 1rem;
+}
+
+.button:hover {
+    background-color: #A0C49D;
+}
+
+.buttonclick {
+    text-decoration: none;
+    color: white;
+}
+
+.foot {
+    padding: 3rem;
+    background: #025464;
+    color: white;
+}
+
+.footgit,
+.footlink,
+.footinsta {
+    width: 5rem;
+    height: 5rem;
+    justify-self: center;
+    border-radius: 50%;
+}
+
+.footer {
+    margin-top: 3.5rem;
+    font-size: 2.5rem;
+    gap: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.foothead {
+    margin-left: 75rem;
+    font-size: 2.7rem;
+    justify-content: center;
+}

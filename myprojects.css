@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+
+    /* border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem; */
+    display: flex;
+    justify-content:flex-start;
+    background:#025464;
+    width: 100%;
+    height: 10rem;
+}
+.menu{ margin-top: 2.5rem;
+    margin-left: 4rem;
+    size: 5rem;
+
+
+
+}
+.material-symbols-outlined{
+    color: white;
+    font-size: 4rem;
+    
+    
+}
+.portfolio{
+    margin-top: 1.2rem;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 6rem;
+    margin-left: 7rem;
+
+}
+.abt{
+    margin-top: 3.2rem;
+    margin-left: 95rem;
+}
+.home{
+    color: white;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+.projrect{
+    color: white;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+.pro{
+    margin-top: 3.2rem;
+    margin-left: 9rem;
+}
+.line{
+    justify-content: center;
+    background-color:#ECF8F9;
+    padding: 3rem;
+
+}
+
+.line1{
+    font-size: 6rem;
+    margin-left: 60rem;
+}
+.line1img{
+    margin-top: 4rem;
+    border-radius: 4rem;
+    margin-left: 60rem;
+    width: 70rem;
+}
+.foot{
+    padding: 3rem;
+    background:#025464;
+    color: white;
+}
+.footgit,.footlink,.footinsta{
+    width: 5rem;
+    height: 5rem;
+    justify-self: center;
+    border-radius: 50%;
+}
+.footer{
+    margin-top: 3.5rem;
+    font-size: 2.5rem;
+    gap: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.foothead{
+    margin-left: 75rem;
+    font-size: 2.7rem;
+    justify-content: center;
+}
