@@ -12,13 +12,13 @@
     justify-content: flex-start;
     background: #025464;
     width: 100%;
-    height: 10rem;
+    height: 5rem;
 }
 
 .menu {
-    margin-top: 2.5rem;
-    margin-left: 4rem;
-    size: 5rem;
+    margin-top: 1.25rem;
+    margin-left: 2rem;
+    size: 2.5rem;
 
 
 
@@ -26,47 +26,47 @@
 
 .material-symbols-outlined {
     color: white;
-    font-size: 4rem;
+    font-size: 2rem;
 
 
 }
 
 .portfolio {
-    margin-top: 1.2rem;
+    margin-top: 0.75rem;
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 6rem;
-    margin-left: 7rem;
+    font-size: 3rem;
+    margin-left: 3.5rem;
 
 }
 
 .abt {
-    margin-top: 3.2rem;
-    margin-left: 95rem;
+    margin-top: 1.7rem;
+    margin-left: 48rem;
 }
 
 .home {
     color: white;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 1.25rem;
 }
 
 .projrect {
     color: white;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 1.25rem;
 }
 
 .pro {
-    margin-top: 3.2rem;
-    margin-left: 9rem;
+    margin-top: 1.7rem;
+    margin-left: 4.5rem;
 
 }
 
 .img1 {
     box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
-    width: 60rem;
-    margin-left: 15rem;
+    width: 30rem;
+    margin-left: 7.5rem;
 }
 
 .start1 {
@@ -75,59 +75,59 @@
 }
 
 .introduction1 {
-    margin-top: 6rem;
+    margin-top: 3rem;
     text-align: center;
-    font-size: 5rem;
+    font-size: 2.5rem;
 
 }
 
 .intro1 {
     box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
-    margin-left: 40rem;
+    margin-left: 20rem;
     background:khaki;
-    width: 40rem;
-    margin-top: 6rem;
-    margin-bottom: 6rem;
-    margin-right: 20rem;
-    border-radius: 4rem;
+    width: 20rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-right: 10rem;
+    border-radius: 2rem;
 }
 
 .intro2 {
     text-align: center;
     background: #ECF8F9;
-    padding: 5rem;
+    padding: 2.5rem;
 
 }
 
 .head2 {
-    padding-top: 2rem;
-    font-size: 4rem;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    font-size: 2rem;
+    padding-bottom: 1rem;
 
 }
 
 .myimg {
-    width: 20rem;
-    height: 20rem;
+    width: 10rem;
+    height: 10rem;
     border-radius: 50%;
 
 }
 
 .aboutcontainer {
     box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
-    margin-top: 3rem;
-    padding: 2rem;
-    margin-left: 60rem;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    margin-left: 30rem;
     text-align: justify;
-    border-radius: 2rem;
-    width: 60rem;
+    border-radius: 1rem;
+    width: 30rem;
     background-color: khaki;
 
 }
 
 .disc {
     font-family: 'Times New Roman';
-    font-size: 2.5rem;
+    font-size: 1.7rem;
 }
 
 .tech {
@@ -136,14 +136,14 @@
 }
 
 .tech {
-    padding: 4rem;
+    padding: 2rem;
 }
 
 .teachead {
-    margin-left: 68rem;
-    padding-top: 1rem;
-    font-size: 4rem;
-    padding-bottom: 2rem;
+    margin-left: 34rem;
+    padding-top: 0.5rem;
+    font-size: 2rem;
+    padding-bottom: 1rem;
 }
 
 .python,
@@ -155,7 +155,7 @@
     box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
     border-radius: 1rem;
 
-    width: 24rem;
+    width: 12rem;
 
     background: khaki;
 }
@@ -178,18 +178,18 @@
 .jsimg {
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
-    width: 24rem;
+    width: 12rem;
 }
 
 .card1,
 .card2 {
     /* box-shadow: 1rem 1rem 2rem 1rem rgba(0, 0, 0, 0.2); */
-    border-radius: 1.5rem;
-    margin-top: 4rem;
-    margin-right: 25rem;
+    border-radius: 0.7rem;
+    margin-top: 2rem;
+    margin-right: 12rem;
     display: flex;
-    gap: 25rem;
-    margin-left: 30rem;
+    gap: 12rem;
+    margin-left: 15rem;
 
 
 }
@@ -200,8 +200,8 @@
 .cdis,
 .gdis,
 .jsdis {
-    font-size: 2rem;
-    padding: 1.5rem;
+    font-size: 1rem;
+    padding: 0.7rem;
     justify-content: center;
 
 }
@@ -212,19 +212,19 @@
 .hhead,
 .ghead,
 .jshead {
-    font-size: 2.7rem;
+    font-size: 1.6rem;
     text-decoration: underline;
 }
 
 .pro2 {
-    padding: 2rem;
+    padding: 1rem;
     background: #ECF8F9;
 }
 
 .proimg {
     box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
-    border-radius: 1rem;
-    width: 30rem;
+    border-radius: 0.5rem;
+    width: 15rem;
 }
 
 .proflex {
@@ -233,29 +233,29 @@
 }
 
 .prohead {
-    margin-left: 86rem;
-    font-size: 4.5rem;
-    margin-top: 2rem;
+    margin-left: 43rem;
+    font-size: 2.25rem;
+    margin-top: 1rem;
 
 }
 
 .prodis {
-    margin-left: 30rem;
-    font-size: 3rem;
-    margin-top: 4rem;
+    margin-left: 15rem;
+    font-size: 1.5rem;
+    margin-top: 2rem;
 }
 
 .button {
     background-color: #025464;
     color: white;
-    margin-left: 36rem;
-    margin-top: 4rem;
-    padding: 1.2rem;
+    margin-left: 18rem;
+    margin-top: 2rem;
+    padding: 0.7rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 3rem;
-    border-radius: 1rem;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
 }
 
 .button:hover {
@@ -268,7 +268,7 @@
 }
 
 .foot {
-    padding: 3rem;
+    padding: 1.5rem;
     background: #025464;
     color: white;
 }
@@ -276,22 +276,22 @@
 .footgit,
 .footlink,
 .footinsta {
-    width: 5rem;
-    height: 5rem;
+    width: 2.5rem;
+    height: 2.5rem;
     justify-self: center;
     border-radius: 50%;
 }
 
 .footer {
-    margin-top: 3.5rem;
-    font-size: 2.5rem;
-    gap: 10rem;
+    margin-top: 1.75rem;
+    font-size: 1.4rem;
+    gap: 5rem;
     display: flex;
     justify-content: center;
 }
 
 .foothead {
-    margin-left: 75rem;
-    font-size: 2.7rem;
+    margin-left: 37rem;
+    font-size: 1.35rem;
     justify-content: center;
 }

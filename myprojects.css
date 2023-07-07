@@ -11,46 +11,46 @@
     justify-content:flex-start;
     background:#025464;
     width: 100%;
-    height: 10rem;
+    height: 5rem;
 }
-.menu{ margin-top: 2.5rem;
-    margin-left: 4rem;
-    size: 5rem;
+.menu{ margin-top: 1.45rem;
+    margin-left: 2rem;
+    size: 2.5rem;
 
 
 
 }
 .material-symbols-outlined{
     color: white;
-    font-size: 4rem;
+    font-size: 2rem;
     
     
 }
 .portfolio{
-    margin-top: 1.2rem;
+    margin-top: 0.7rem;
     color: white;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 6rem;
-    margin-left: 7rem;
+    font-size: 3rem;
+    margin-left: 3.5rem;
 
 }
 .abt{
-    margin-top: 3.2rem;
-    margin-left: 95rem;
+    margin-top: 1.7rem;
+    margin-left: 48rem;
 }
 .home{
     color: white;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 1.45rem;
 }
 .projrect{
     color: white;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 1.45rem;
 }
 .pro{
-    margin-top: 3.2rem;
-    margin-left: 9rem;
+    margin-top: 1.7rem;
+    margin-left: 4.5rem;
 }
 .line{
     justify-content: center;
@@ -60,35 +60,35 @@
 }
 
 .line1{
-    font-size: 6rem;
-    margin-left: 60rem;
+    font-size: 3rem;
+    margin-left: 25rem;
 }
 .line1img{
-    margin-top: 4rem;
-    border-radius: 4rem;
-    margin-left: 60rem;
-    width: 70rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    margin-left: 30rem;
+    width: 30rem;
 }
 .foot{
-    padding: 3rem;
+    padding: 1.5rem;
     background:#025464;
     color: white;
 }
 .footgit,.footlink,.footinsta{
-    width: 5rem;
-    height: 5rem;
+    width: 2.5rem;
+    height: 2.5rem;
     justify-self: center;
     border-radius: 50%;
 }
 .footer{
-    margin-top: 3.5rem;
-    font-size: 2.5rem;
-    gap: 10rem;
+    margin-top: 1.75rem;
+    font-size: 1.4rem;
+    gap: 5rem;
     display: flex;
     justify-content: center;
 }
 .foothead{
-    margin-left: 75rem;
-    font-size: 2.7rem;
+    margin-left: 37rem;
+    font-size: 1.35rem;
     justify-content: center;
 }
