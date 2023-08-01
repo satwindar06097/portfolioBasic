@@ -260,6 +260,7 @@
 
 .button:hover {
     background-color: #A0C49D;
+    color: #000;
 }
 
 .buttonclick {
@@ -268,7 +269,7 @@
 }
 
 .foot {
-    padding: 1.5rem;
+    padding: 1rem;
     background: #025464;
     color: white;
 }
@@ -276,8 +277,8 @@
 .footgit,
 .footlink,
 .footinsta {
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2rem;
+    height: 2rem;
     justify-self: center;
     border-radius: 50%;
 }
@@ -291,7 +292,7 @@
 }
 
 .foothead {
-    margin-left: 37rem;
-    font-size: 1.35rem;
+    margin-left: 40rem;
+    font-size: 1.30rem;
     justify-content: center;
 }
