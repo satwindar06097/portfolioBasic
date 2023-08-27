@@ -168,6 +168,7 @@
 .js:hover
 .aboutcontainer:hover {
     box-shadow: 1.7px 1.7px 2.5px 1.7px rgba(0, 0, 0, 0.2);
+    scale : 1.2;
 }
 
 .pyimg,
